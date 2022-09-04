@@ -1,0 +1,180 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+nav{
+    width: 100%;
+    height: 60px;
+    background: #344051;
+}
+.logo{
+color: aliceblue;
+font-size: 28px;
+line-height: 60px;
+padding-left: 388px;
+float: left;
+}
+
+.menu{
+float: left;
+padding-left: 433px;
+}
+
+.menu li{
+float: left;
+line-height: 60px;
+color: aliceblue;
+margin-right: 40px;
+font-size: 16px;
+text-transform: uppercase;
+}
+
+.main{
+
+    width: 100%;
+    height: 100%;
+    background:url(/src/img/fuck2.png) 108% 55% no-repeat, url(/src/img/fone1.png)  center/cover no-repeat  ;
+
+}
+.title_container{
+margin : 350px 0px 0px 434px;
+float: left;
+color: #2c384a;
+text-align: center;
+}
+
+.title_container h1{
+font-size: 60px;
+font-weight: bold;
+}
+
+.title_container h4{
+margin-top: 40px;
+font-size: 22px;
+color: #79818d;
+}
+
+.title_container input {
+height: 40px;
+text-align: center;
+border: 2px solid #6d7682;
+background: none;
+border-radius: 5px;
+font-size: 15px;
+padding: 0px 16px;
+margin: 50px 28px 0px 14px;
+}
+
+.about_me { 
+    height: 722px;
+    width: auto;
+    background-color: #e6e6e6;
+
+    
+}
+
+.about_me>h2{
+
+    padding-top: 120px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.img1{
+
+height: 205px;
+margin: 98px 863px  30px 740px;
+
+}
+
+.about_me>p
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.about_me>a{
+
+    margin-left: 790px; 
+border: 2px solid #3d3d3ff0;
+border-radius: 3px;
+
+
+
+
+
+}
+
+.what_i_can{
+height: 523px;
+background: url(/src/img/fone_what_i_can.png);
+
+}
+
+.what_i_can>h2{
+    font-size: 30px;
+    padding-top: 110px;
+    text-align: center;
+}
+
+.web{
+    font-size: 20px;
+    float: left;
+    margin-right: 60px;
+    margin-left: 540px;
+    margin-top: 170px;
+    
+}
+
+.create{
+    float: left;
+    font-size: 20px;
+    margin-right: 60px;
+    margin-top: 170px;
+}
+
+.ceo{
+    float: left;
+    font-size: 20px;
+    margin-right: 60px;
+    margin-top: 170px;
+}
+
+.marketing{
+
+    float: left;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 170px;
+}
+
+.case{
+
+height: 2008px;
+background-color: #dcdddf;
+
+}
+
+.case1{
+
+font-size: 30px;
+text-align: center;
+padding-top: 112px;
+    
+    }
+    
+    .case1>p{
+
+        padding-top: 76px;
+        padding-bottom: 46px;
+        font-size: 15px;
+    }
+
+    .nav{
+
+        position: fixed;
+        top: 0px;
+        left: 0px;
+    }
